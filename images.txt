@@ -1,1 +1,1 @@
-hhh:latest
+nginx:1.20.0
